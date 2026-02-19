@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repo-m/repo-m/Untitled.md",
+                "file": "Kimia's Draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Kimia's Draft"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repo-m/repo-m/Untitled.md",
+                "file": "Kimia's Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Kimia's Draft"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repo-m/repo-m/Untitled.md",
+                "file": "Kimia's Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Kimia's Draft"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repo-m/repo-m/Untitled.md",
+                "file": "Kimia's Draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Kimia's Draft"
             }
           }
         ]
@@ -200,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91bf76fdd03b16d9",
+  "active": "d9a2c72fca5451db",
   "lastOpenFiles": [
-    "Untitled.md",
     "repo-m/repo-m/Untitled.md",
+    "Untitled.md",
     "repo-m/repo-m/Zeequent Batch Auctions.md",
     "repo-m/repo-m/README.md",
     "repo-m/repo-m/Literature/qjv027.pdf",
@@ -212,7 +212,7 @@
     "repo-m/repo-m/Literature",
     "repo-m/repo-m/Call Market SNARK.md",
     "repo-m/repo-m",
-    "Welcome.md",
+    "Kimia's Draft.md",
     "repo-m"
   ]
 }
