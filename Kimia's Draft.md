@@ -1,7 +1,6 @@
 # **Secure Market Clearing via ZK-SNARKs: A Protocol for Private Call Auctions**
 
-?????????????????????
-(?using polynomial and column interchangeably (esp. for min), should be fixed. Some notations are also used twice and not defined very well?)
+(?Some notations areused twice and not defined very well?)
 ### **Abstract**
 
 This protocol defines a Zero-Knowledge (ZK) framework for the verifiable execution of a call market auction. We address the critical challenge of proving a market-clearing price and volume without revealing individual participant bids or asks, which remain private. By utilizing indexed accumulators and a Positive Check range proof mechanism (derived from the ([IZPR](https://eprint.iacr.org/2024/430.pdf)) Instant Zero-Knowledge Proof of Range methodology), the auctioneer can prove that a clearing volume is the global maximum and exists as a plateau within a valid price interval.
